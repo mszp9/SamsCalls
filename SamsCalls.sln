@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29123.88
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SamsCalls.Web", "SamsCalls.Web\SamsCalls.Web.csproj", "{2473D2ED-603A-40DA-93BD-A080795A1934}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Calls.Data", "Calls.Data\Calls.Data.csproj", "{DDA27C3D-5134-4A33-8892-410D2B791ADC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2473D2ED-603A-40DA-93BD-A080795A1934}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2473D2ED-603A-40DA-93BD-A080795A1934}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2473D2ED-603A-40DA-93BD-A080795A1934}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2473D2ED-603A-40DA-93BD-A080795A1934}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDA27C3D-5134-4A33-8892-410D2B791ADC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDA27C3D-5134-4A33-8892-410D2B791ADC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDA27C3D-5134-4A33-8892-410D2B791ADC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDA27C3D-5134-4A33-8892-410D2B791ADC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA02703F-56B1-4203-BC52-25800115D0C8}
+	EndGlobalSection
+EndGlobal
